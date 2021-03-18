@@ -23,3 +23,14 @@ go through this step by step.
 - For this project, you will need to Install the OpenSSL library (if not already
   installed).
 
+## Projects
+1. :bookmark_tabs: [Blockchain crypto](crypto/.#readme)
+2. :bookmark_tabs: [Blockchain data structure](data/.#readme)
+
+## Author
+Gonzalo Gomez Millan
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/gogomillan)[![Tweeting](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gogomillan)[![Linking](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gogomillan)
+
+## :balance_scale: Licence
+MIT 
+\[ [Read](LICENSE) \]
