@@ -5,12 +5,11 @@ The goal of this series of projects is to build a basic Blockchain/Cryptocurrenc
 entirely in C, and from scratch! Its going to be a lot of work, and were going to
 go through this step by step.
 
-![tecnology Linux](https://img.shields.io/badge/technology-Linux-blue.svg)
+![tecnology Linux](https://img.shields.io/badge/OS-Linux-blue.svg)
 ![tecnology Ubuntu](https://img.shields.io/badge/technology-Ubuntu-orange.svg)
-![tecnology C](https://img.shields.io/badge/technology-C-blue.svg)
+![tecnology C](https://img.shields.io/badge/technology-C-green.svg)
 ![OpenSSL](https://img.shields.io/badge/technology-OpenSSL-orange.svg)
-![Crypto](https://img.shields.io/badge/technology-Crypto-blue.svg)
-![gogomillan](https://img.shields.io/badge/by-gogomillan-green.svg)
+![Crypto](https://img.shields.io/badge/discipline-Crypto-blue.svg)
 
 ## Topics
 - How a Blockchain is considered unbreakable
