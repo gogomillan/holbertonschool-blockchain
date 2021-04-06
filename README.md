@@ -8,6 +8,7 @@ go through this step by step.
 ![tecnology Linux](https://img.shields.io/badge/technology-Linux-blue.svg)
 ![tecnology Ubuntu](https://img.shields.io/badge/technology-Ubuntu-orange.svg)
 ![tecnology C](https://img.shields.io/badge/technology-C-blue.svg)
+![OpenSSL](https://img.shields.io/badge/technology-OpenSSL-blue.svg)
 
 ## Topics
 - How a Blockchain is considered unbreakable
