@@ -10,6 +10,7 @@ go through this step by step.
 ![tecnology C](https://img.shields.io/badge/technology-C-blue.svg)
 ![OpenSSL](https://img.shields.io/badge/technology-OpenSSL-orange.svg)
 ![Crypto](https://img.shields.io/badge/technology-Crypto-blue.svg)
+![gogomillan](https://img.shields.io/badge/by-gogomillan-green.svg)
 
 ## Topics
 - How a Blockchain is considered unbreakable
