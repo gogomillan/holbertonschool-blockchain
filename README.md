@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="1280" height="384" src="assets/BlockChain_Header.png">
+</div>
+
 # Blockchain
 Welcome to the Blockchain track ! \o/
 
