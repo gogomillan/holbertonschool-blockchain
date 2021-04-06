@@ -1,8 +1,15 @@
 ## Blockchain - Crypto
+
 \[ [Back](../../..#readme) \]
 \[ [Objectives](#Objectives) \]
 \[ [Info](#Info) \]
 \[ [Tasks](#Tasks) \]
+
+![OS Linux](https://img.shields.io/badge/OS-Linux-blue.svg)
+![distro Ubuntu](https://img.shields.io/badge/distro-Ubuntu-orange.svg)
+![tecnology C](https://img.shields.io/badge/technology-C-green.svg)
+![OpenSSL](https://img.shields.io/badge/toolkit-OpenSSL-brown.svg)
+![Crypto](https://img.shields.io/badge/discipline-Crypto-yellow.svg)
 
 ### Objectives
 - How a Blockchain is considered unbreakable
