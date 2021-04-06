@@ -6,7 +6,7 @@ entirely in C, and from scratch! Its going to be a lot of work, and were going t
 go through this step by step.
 
 ![tecnology Linux](https://img.shields.io/badge/technology-Linux-blue.svg)
-![tecnology Ubuntu](https://img.shields.io/badge/technology-Ubuntu-blue.svg)
+![tecnology Ubuntu](https://img.shields.io/badge/technology-Ubuntu-orange.svg)
 ![tecnology C](https://img.shields.io/badge/technology-C-blue.svg)
 
 ## Topics
