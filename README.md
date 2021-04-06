@@ -5,8 +5,8 @@ The goal of this series of projects is to build a basic Blockchain/Cryptocurrenc
 entirely in C, and from scratch! Its going to be a lot of work, and were going to
 go through this step by step.
 
-![tecnology Linux](https://img.shields.io/badge/OS-Linux-blue.svg)
-![tecnology Ubuntu](https://img.shields.io/badge/technology-Ubuntu-orange.svg)
+![OS Linux](https://img.shields.io/badge/OS-Linux-blue.svg)
+![distro Ubuntu](https://img.shields.io/badge/distro-Ubuntu-orange.svg)
 ![tecnology C](https://img.shields.io/badge/technology-C-green.svg)
 ![OpenSSL](https://img.shields.io/badge/toolkit-OpenSSL-brown.svg)
 ![Crypto](https://img.shields.io/badge/discipline-Crypto-yellow.svg)
