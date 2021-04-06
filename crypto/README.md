@@ -1,4 +1,4 @@
-## :memo: Blockchain - Crypto
+## Blockchain - Crypto
 \[ [Back](../../..#readme) \]
 \[ [Info](#Info) \]
 \[ [Tasks](#Tasks) \]
