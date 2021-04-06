@@ -26,7 +26,7 @@ go through this step by step.
 ## Requirements
 - Ubuntu 14.04 LTS
 - C programs and functions will be compiled with gcc 4.8.4
-- For this project, you will need to Install the OpenSSL library (if not already
+- For this project, you will need to [Install the OpenSSL library](https://help.ubuntu.com/community/OpenSSL#Practical_OpenSSL_Usage) (if not already
   installed).
 
 ## Projects
