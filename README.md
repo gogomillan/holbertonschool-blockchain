@@ -12,16 +12,10 @@ go through this step by step.
 ![Crypto](https://img.shields.io/badge/discipline-Crypto-yellow.svg)
 
 ## Topics
-- How a Blockchain is considered unbreakable
-- What is a hash algorithm
-- What SHA stands for
-- How hash algorithms apply to Blockchains
-- What is asymmetric cryptography
-- How asymmetric cryptography applies to cryptocurrencies
-- What ECC stands for
-- What ECDSA stands for
-- What a digital signature is
-- How digital signatures apply to cryptocurrencies
+- What blockchain is
+- How Cryptography works
+- Data Structures concepts for Blockchain
+- Block mining concepts for Blockchain
 
 ## Requirements
 - Ubuntu 14.04 LTS
@@ -31,7 +25,8 @@ go through this step by step.
 
 ## Projects
 1. [Blockchain crypto](crypto/.#readme)
-2. [Blockchain data structure](data/.#readme)
+2. [Blockchain data structure](blockchain/v0.1/.#readme)
+2. [Blockchain block mining](blockchain/v0.2/.#readme)
 
 ## Author
 Gonzalo Gomez Millan - [gonzalo.gomez.millan@gmail.com](mailto:gonzalo.gomez.millan@gmail.com)  
