@@ -11,6 +11,7 @@
 #include <stdint.h>
 
 #define ECCTYPE "secp256k1"
+#define EC_CURVE NID_secp256k1
 #define EC_PUB_LEN 65
 
 uint8_t *sha256(int8_t const *s, size_t len,
