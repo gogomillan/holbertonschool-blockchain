@@ -10,7 +10,6 @@
 #include <stddef.h>
 #include <stdint.h>
 
-#define ECCTYPE "secp256k1"
 #define EC_CURVE NID_secp256k1
 #define EC_PUB_LEN 65
 

@@ -12,8 +12,10 @@ EC_KEY *ec_from_pub(uint8_t const pub[EC_PUB_LEN])
 	EC_KEY *key;
 	EC_POINT *point;
 
-	if (!pub)
+	if (pub == NULL)
 		return (NULL);
+
+	OpenSSL_add_all_algorithms();
 	/*Create a key from the curve name*/
 	key = EC_KEY_new_by_curve_name(EC_CURVE);
 	if (!key)
