@@ -1,4 +1,4 @@
-##  BlockChain - Crypto
+## ![BlockChain](https://img.shields.io/badge/BlockChain-000000?style=for-the-badge&logo=bitcoin&logoColor=white) - Crypto
 
 \[ [Back](../../..#readme) \]
 \[ [Objectives](#Objectives) \]

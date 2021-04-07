@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1280" height="384" src="assets/BlockChain_Header.png">
+  <img width="600" height="350" src="assets/BlockChain_Header.png">
 </div>
 
 # Blockchain
