@@ -126,7 +126,7 @@ alex@~/holbertonschool-blockchain/crypto$
 \[ [sha256.c](sha256.c) \]
 \[ [hblk_crypto.h](hblk_crypto.h) \]
 
-#### 0. SHA256:
+#### 1. EC_KEY creation
 
 Write a function that creates a new EC key pair.
 - Prototype: EC_KEY \*ec_create(void);
