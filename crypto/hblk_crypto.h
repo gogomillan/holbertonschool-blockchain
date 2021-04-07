@@ -9,7 +9,7 @@
 #include <stddef.h>
 #include <stdint.h>
 
-#define ECCTYPE "secp521r1"
+#define ECCTYPE "secp256k1"
 
 uint8_t *sha256(int8_t const *s, size_t len,
 				uint8_t digest[SHA256_DIGEST_LENGTH]);
