@@ -10,7 +10,6 @@ EC_KEY *ec_create(void)
 	BIO *outbio = NULL;
 	EC_KEY *myecc  = NULL;
 	EVP_PKEY *pkey   = NULL;
-	const EC_GROUP *ecgrp;
 	int eccgrp;
 
 	/* Initializing OpenSSL */
@@ -33,11 +32,6 @@ EC_KEY *ec_create(void)
 		BIO_printf(outbio, "Error assigning ECC key to EVP_PKEY structure.");
 	/* Get EC-specifics from the key */
 	myecc = EVP_PKEY_get1_EC_KEY(pkey);
-	ecgrp = EC_KEY_get0_group(myecc);
-	/* Print the key lenght and the curve type */
-	BIO_printf(outbio, "ECC Key size: %d bit\n", EVP_PKEY_bits(pkey));
-	BIO_printf(outbio, "ECC Key type: %s\n",
-						OBJ_nid2sn(EC_GROUP_get_curve_name(ecgrp)));
 
 	EVP_PKEY_free(pkey);
 	BIO_free_all(outbio);
