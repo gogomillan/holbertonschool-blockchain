@@ -19,6 +19,7 @@ uint8_t *ec_to_pub(EC_KEY const *key, uint8_t pub[EC_PUB_LEN])
 	if (key == NULL)
 		return (NULL);
 
+	/* initialize OpenSSL */
 	OpenSSL_add_all_algorithms();
 	ERR_load_BIO_strings();
 	ERR_load_crypto_strings();
