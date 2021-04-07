@@ -13,7 +13,8 @@ EC_KEY *ec_create(void)
 	int eccgrp;
 
 	/* Initializing OpenSSL */
-	OpenSSL_add_all_algorithms(), ERR_load_BIO_strings();
+	OpenSSL_add_all_algorithms();
+	ERR_load_BIO_strings();
 	ERR_load_crypto_strings();
 	/* Creating I/O BIO's */
 	outbio = BIO_new(BIO_s_file());
