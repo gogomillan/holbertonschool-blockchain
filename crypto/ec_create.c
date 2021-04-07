@@ -12,7 +12,7 @@ EC_KEY *ec_create(void)
 	/* Initialize OpenSSL */
 	OpenSSL_add_all_algorithms();
 	ERR_load_BIO_strings();
-	ERR_load_crypto_strings()
+	ERR_load_crypto_strings();
 	/* Put key generation by curve */
 	ecckey = EC_KEY_new_by_curve_name(EC_CURVE);
 	/* Generate the EC key pair*/
