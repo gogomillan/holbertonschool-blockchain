@@ -1,4 +1,4 @@
-## Blockchain - Crypto
+## ![BlockChain Logo](../../../assets/BlockChain_Logo.png)Blockchain - Crypto
 
 \[ [Back](../../..#readme) \]
 \[ [Objectives](#Objectives) \]
