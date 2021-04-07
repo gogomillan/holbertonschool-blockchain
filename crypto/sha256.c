@@ -1,7 +1,7 @@
 #include "hblk_crypto.h"
 
 /**
- * Function that produce a hash from s to digest
+ * sha256 - Function that produce a hash from s to digest
  *
  * @s: The input
  * @len: The lenght
