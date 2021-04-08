@@ -16,10 +16,6 @@ EC_KEY *ec_from_pub(uint8_t const pub[EC_PUB_LEN])
 	if (pub == NULL)
 		return (NULL);
 
-	/* Initialize OpenSSL */
-	OpenSSL_add_all_algorithms();
-	ERR_load_BIO_strings();
-	ERR_load_crypto_strings();
 	/* Get an ECC_KEY */
 	eckey = EC_KEY_new_by_curve_name(EC_CURVE);
 	if (!eckey)
