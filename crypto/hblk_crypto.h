@@ -13,8 +13,8 @@
 
 #define EC_CURVE NID_secp256k1
 #define EC_PUB_LEN 65
-#define KEY_PRI_FILE "key.pem"
-#define KEY_PUB_FILE "key_pub.pem"
+#define PRI_FILENAME "key.pem"
+#define PUB_FILENAME "key_pub.pem"
 
 uint8_t *sha256(int8_t const *s, size_t len,
 				uint8_t digest[SHA256_DIGEST_LENGTH]);
