@@ -10,6 +10,7 @@
 #include <stddef.h>
 #include <stdint.h>
 #include <sys/stat.h>
+#include <strings.h>
 
 #define EC_CURVE     NID_secp256k1
 #define EC_PUB_LEN   65
