@@ -1,6 +1,7 @@
 #ifndef gogomillan
 #define gogomillan
 
+/* Includes */
 #include <openssl/sha.h>
 #include <openssl/bio.h>
 #include <openssl/err.h>
