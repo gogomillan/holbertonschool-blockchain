@@ -138,7 +138,8 @@ Write a function that creates a new EC key pair.
 - Both the private and the public keys must be generated
 - You have to use the secp256k1 elliptic curve to create the new pair (See EC_CURVE macro)
 
-**Example:**
+<summary>Example [CLICK ME]:</summary>
+
 ```bash
 alex@~/holbertonschool-blockchain/crypto$ cat test/ec_create-main.c 
 #include <stdlib.h>
@@ -194,6 +195,8 @@ Successfully created EC key pair
 ==17436== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 alex@~/holbertonschool-blockchain/crypto$
 ```
+
+</details>
 
 **Files:**
 \[ [ec_create.c](ec_create.c) \]
