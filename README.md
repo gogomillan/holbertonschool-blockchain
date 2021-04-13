@@ -28,7 +28,7 @@ go through this step by step.
   installed).
 
 ## Installation
-When you are in your Linux Shell (CLI): Using git command clone the project from its URL.  
+When you are in your Linux Shell (CLI): Using git command to clone the project from its URL.  
 Example:
 ```bash
 vagrant@gogomillan$
