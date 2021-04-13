@@ -130,11 +130,7 @@ alex@~/holbertonschool-blockchain/crypto$
 \[ [sha256.c](sha256.c) \]
 \[ [hblk_crypto.h](hblk_crypto.h) \]
 
-***
-
 ---
-
-___
 
 #### 1. EC_KEY creation
 
