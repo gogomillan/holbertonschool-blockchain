@@ -68,7 +68,7 @@ Write a function that computes the hash of a sequence of bytes
 <details>
 <summary>Click to see the example:</summary>
 
-```
+```bash
 alex@~/holbertonschool-blockchain/crypto$ cat test/sha256-main.c
 #include <stdio.h>
 #include <stdlib.h>
