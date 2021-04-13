@@ -66,7 +66,7 @@ Write a function that computes the hash of a sequence of bytes
 - You are not allowed to allocate memory dynamically
 
 <details>
-<summary>Click to see the example:</summary>
+<summary>Example [click]:</summary>
 
 ```bash
 alex@~/holbertonschool-blockchain/crypto$ cat test/sha256-main.c
