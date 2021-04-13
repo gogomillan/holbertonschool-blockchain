@@ -138,6 +138,7 @@ Write a function that creates a new EC key pair.
 - Both the private and the public keys must be generated
 - You have to use the secp256k1 elliptic curve to create the new pair (See EC_CURVE macro)
 
+<details>
 <summary>Example [CLICK ME]:</summary>
 
 ```bash
