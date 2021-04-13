@@ -132,6 +132,10 @@ alex@~/holbertonschool-blockchain/crypto$
 
 ***
 
+---
+
+___
+
 #### 1. EC_KEY creation
 
 Write a function that creates a new EC key pair.
