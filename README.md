@@ -61,9 +61,9 @@ vagrant@gogomillan$
 ```
 
 ## Projects
-### [Blockchain crypto](crypto/.#readme)
-### [Blockchain data structure](blockchain/v0.1/.#readme)
-### [Blockchain block mining](blockchain/v0.2/.#readme)
+#### [Blockchain crypto](crypto/.#readme)
+#### [Blockchain data structure](blockchain/v0.1/.#readme)
+#### [Blockchain block mining](blockchain/v0.2/.#readme)
 
 ## Author
 Gonzalo Gomez Millan - <gonzalo.gomez.millan@gmail.com>  
