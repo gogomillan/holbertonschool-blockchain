@@ -65,7 +65,8 @@ Write a function that computes the hash of a sequence of bytes
 - If digest happens to be NULL, your function must do nothing and return NULL
 - You are not allowed to allocate memory dynamically
 
-**Example:**
+<details>
+<summary>**Example:**</summary>
 ```bash
 alex@~/holbertonschool-blockchain/crypto$ cat test/sha256-main.c
 #include <stdio.h>
@@ -121,6 +122,7 @@ alex@~/holbertonschool-blockchain/crypto$ ./sha256-test "Holberton School"
 2a05534c3fd942dc5e5ab0a968433b747b2188d526feffdb5a6406f15bf4861c
 alex@~/holbertonschool-blockchain/crypto$
 ```
+</details>
 
 **Files:**
 \[ [sha256.c](sha256.c) \]
